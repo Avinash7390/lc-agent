@@ -1,0 +1,26 @@
+# LeetCode credentials
+LC_USERNAME=xxxxx
+LC_PASSWORD=xxxxx
+
+# OpenRouter API key. Paid OpenAI models require OpenRouter credits.
+OPENROUTER_API_KEY=sxxxxxxxxx
+
+# Model to use (options: premium, openai, gpt-5.1, gpt-5, gpt-4o, free, deepseek, qwen, llama, or any full OpenRouter model ID)
+LLM_MODEL=premium
+
+# OpenAI SDK client config for llm_client_v2.py
+OPENAI_API_KEY=sk-xxxxx
+OPENAI_MODEL=deepseek
+# Optional: none, low, medium, high
+OPENAI_REASONING_EFFORT=low
+# Optional: low, medium, high
+OPENAI_TEXT_VERBOSITY=low
+OPENAI_API_KEY=xxxxxx
+# Selenium config
+MAX_DRIVER_DELAY_SEC=15
+
+# Logging
+LOG_LEVEL=INFO
+
+LEETCODE_CSRFTOKEN=xxxx
+LEETCODE_SESSION=xxxxxxx
